@@ -118,11 +118,11 @@ input[type="submit"] {
 	</form>
 	
 	<div class="grid grid-cols-3 gap-4" style="border-top:1px solid black; border-bottom: 1px solid black;" >
-  		<div style = "cursor:pointer;" onclick="location.href='https://pubg.game.daum.net/pubg/index.daum';">battleground</div>
-  		<div style = "cursor:pointer;" onclick="location.href='https://kart.nexon.com/events/2021/0429/Event.aspx';">카트라이더</div>
-  		<div style = "cursor:pointer;" onclick="location.href='https://maplestory.nexon.com/Promotion/Event/2021/20210422/intro';">maplestory</div>
-  		<div style = "cursor:pointer;" onclick="location.href='https://fs.joycity.com/web/main.do';">freestyle</div>
-  		<div style = "cursor:pointer;" onclick="location.href='https://na.leagueoflegends.com/ko-kr/';">leagueoflegends</div>
+  		<div style = "cursor:pointer; border:1px solid black; background-image:url(img/battle.jpg); color:white;" onclick="location.href='https://pubg.game.daum.net/pubg/index.daum';">battleground</div>
+  		<div style = "cursor:pointer; border:1px solid black; background-image:url(img/cart.jpg); color:white;" onclick="location.href='https://kart.nexon.com/events/2021/0429/Event.aspx';">카트라이더</div>
+  		<div style = "cursor:pointer; border:1px solid black; background-image:url(img/maple.jpg); color:white;" onclick="location.href='https://maplestory.nexon.com/Promotion/Event/2021/20210422/intro';">maplestory</div>
+  		<div style = "cursor:pointer; border:1px solid black; background-image:url(img/freestyle.jpg); color:white;" onclick="location.href='https://fs.joycity.com/web/main.do';">freestyle</div>
+  		<div style = "cursor:pointer; border:1px solid black; background-image:url(img/lol.jpg); color:white;" onclick="location.href='https://na.leagueoflegends.com/ko-kr/';">leagueoflegends</div>
 	</div>
 </body>
 </html>
